@@ -1107,6 +1107,144 @@
                     "version": "0.4.0"
                 }
             }
+        ],
+        "azure-firewall": [
+            {
+                "filename": "azure_firewall-0.1.0-py2.py3-none-any.whl",
+                "sha256Digest": "9e68757ee36f9a6641ff8ba535fed5872c77687d40cce3a44c0919ea560409f0",
+                "downloadUrl": "https://azurecliprod.blob.core.windows.net/cli-extensions/azure_firewall-0.1.0-py2.py3-none-any.whl",
+                "metadata": {
+                    "azext.isPreview": true,
+                    "azext.minCliCoreVersion": "2.0.41",
+                    "classifiers": [
+                        "Development Status :: 4 - Beta",
+                        "Intended Audience :: Developers",
+                        "Intended Audience :: System Administrators",
+                        "Programming Language :: Python",
+                        "Programming Language :: Python :: 2",
+                        "Programming Language :: Python :: 2.7",
+                        "Programming Language :: Python :: 3",
+                        "Programming Language :: Python :: 3.4",
+                        "Programming Language :: Python :: 3.5",
+                        "Programming Language :: Python :: 3.6",
+                        "License :: OSI Approved :: MIT License"
+                    ],
+                    "extensions": {
+                        "python.details": {
+                            "contacts": [
+                                {
+                                    "email": "azpycli@microsoft.com",
+                                    "name": "Microsoft Corporation",
+                                    "role": "author"
+                                }
+                            ],
+                            "document_names": {
+                                "description": "DESCRIPTION.rst"
+                            },
+                            "project_urls": {
+                            }
+                        }
+                    },
+                    "generator": "bdist_wheel (0.29.0)",
+                    "license": "MIT",
+                    "metadata_version": "2.0",
+                    "name": "azure-firewall",
+                    "summary": "Manage AzureFirewalls.",
+                    "version": "0.1.0"
+                }
+            }
+        ],
+        "virtual-network-tap": [
+            {
+                "filename": "virtual_network_tap-0.1.0-py2.py3-none-any.whl",
+                "sha256Digest": "f062fc89389d1315754443eeb2168824f7ae876657a0adf052ee125872d91bee",
+                "downloadUrl": "https://azurecliprod.blob.core.windows.net/cli-extensions/virtual_network_tap-0.1.0-py2.py3-none-any.whl",
+                "metadata": {
+                    "azext.isPreview": true,
+                    "azext.minCliCoreVersion": "2.0.43",
+                    "classifiers": [
+                        "Development Status :: 4 - Beta",
+                        "Intended Audience :: Developers",
+                        "Intended Audience :: System Administrators",
+                        "Programming Language :: Python",
+                        "Programming Language :: Python :: 2",
+                        "Programming Language :: Python :: 2.7",
+                        "Programming Language :: Python :: 3",
+                        "Programming Language :: Python :: 3.4",
+                        "Programming Language :: Python :: 3.5",
+                        "Programming Language :: Python :: 3.6",
+                        "License :: OSI Approved :: MIT License"
+                    ],
+                    "extensions": {
+                        "python.details": {
+                            "contacts": [
+                                {
+                                    "email": "azpycli@microsoft.com",
+                                    "name": "Microsoft Corporation",
+                                    "role": "author"
+                                }
+                            ],
+                            "document_names": {
+                                "description": "DESCRIPTION.rst"
+                            },
+                            "project_urls": {
+                            }
+                        }
+                    },
+                    "generator": "bdist_wheel (0.29.0)",
+                    "license": "MIT",
+                    "metadata_version": "2.0",
+                    "name": "virtual-network-tap",
+                    "summary": "Manage virtual network (VNet) taps.",
+                    "version": "0.1.0"
+                }
+            }
+        ],
+        "virtual-wan": [
+            {
+                "filename": "virtual_wan-0.1.0-py2.py3-none-any.whl",
+                "sha256Digest": "d5c1dc195cc16b8769aa0a72ea3120bd0f5430c4b312276f3950363c7e9b46f3",
+                "downloadUrl": "https://azurecliprod.blob.core.windows.net/cli-extensions/virtual_wan-0.1.0-py2.py3-none-any.whl",
+                "metadata": {
+                    "azext.isPreview": true,
+                    "azext.minCliCoreVersion": "2.0.43",
+                    "classifiers": [
+                        "Development Status :: 4 - Beta",
+                        "Intended Audience :: Developers",
+                        "Intended Audience :: System Administrators",
+                        "Programming Language :: Python",
+                        "Programming Language :: Python :: 2",
+                        "Programming Language :: Python :: 2.7",
+                        "Programming Language :: Python :: 3",
+                        "Programming Language :: Python :: 3.4",
+                        "Programming Language :: Python :: 3.5",
+                        "Programming Language :: Python :: 3.6",
+                        "License :: OSI Approved :: MIT License"
+                    ],
+                    "extensions": {
+                        "python.details": {
+                            "contacts": [
+                                {
+                                    "email": "azpycli@microsoft.com",
+                                    "name": "Microsoft Corporation",
+                                    "role": "author"
+                                }
+                            ],
+                            "document_names": {
+                                "description": "DESCRIPTION.rst"
+                            },
+                            "project_urls": {
+                            }
+                        }
+                    },
+                    "generator": "bdist_wheel (0.29.0)",
+                    "license": "MIT",
+                    "metadata_version": "2.0",
+                    "name": "virtual-wan",
+                    "summary": "Manage virtual WAN, hubs, VPN gateways and VPN sites.",
+                    "version": "0.1.0"
+                }
+            }
         ]
     }
 }
